@@ -24,5 +24,5 @@
 (custom-set-variables
  '(package-selected-packages
    (quote
-    (hungry-delete zenburn-theme yasnippet volatile-highlights undo-tree sr-speedbar smartparens magit highlight-symbol highlight-numbers helm-gtags ggtags flycheck company-c-headers clean-aindent-mode)))
+    (zenburn-theme yasnippet volatile-highlights undo-tree sr-speedbar smartparens magit hungry-delete highlight-symbol highlight-numbers helm-gtags ggtags flycheck company-c-headers clean-aindent-mode)))
  )
