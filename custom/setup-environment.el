@@ -1,5 +1,3 @@
-(provide 'setup-environment)
-
 (custom-set-variables
  ;; Initialization
  '(inhibit-startup-screen t)
@@ -18,5 +16,8 @@
  '(menu-bar-mode nil)
  ;; Frames -> cursor
  '(blink-cursor-mode nil)
- 
-)
+
+ )
+
+(provide 'setup-environment)
+
